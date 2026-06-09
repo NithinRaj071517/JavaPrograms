@@ -32,6 +32,7 @@ public class ReverseSpecificWordInSentence {
 			
 		}
 		System.out.println(rev.trim());
+		sc.close();
 	}
 
 }
