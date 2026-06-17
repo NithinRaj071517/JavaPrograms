@@ -46,6 +46,6 @@ public class ListProgram {
             System.out.print(k+" ");
         }
         
-        
+        sc.close();
 }
 }

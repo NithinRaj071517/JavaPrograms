@@ -21,6 +21,6 @@ public class fibbonacci {
 			b=c;
 			
 		}
-		
+		number.close();
 	}
 }
