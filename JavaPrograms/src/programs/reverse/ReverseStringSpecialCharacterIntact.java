@@ -6,7 +6,8 @@ public class ReverseStringSpecialCharacterIntact
 {
 	 public static void main(String[] args) 
 	    {
-		 String input="Nithin@Eddf%sds";
+		 String input="ahg$b+c@|:d#";
+		 //String input="Nithin@Eddf%sds";
 		 String word="";
 		 String result="";
 		 

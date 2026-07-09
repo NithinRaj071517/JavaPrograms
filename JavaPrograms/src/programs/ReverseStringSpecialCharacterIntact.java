@@ -19,6 +19,7 @@ public class ReverseStringSpecialCharacterIntact
 				 word=ch+word;
 			 }
 			 else
+				
 			 {
 				 result=result+word+ch;
 				 word="";

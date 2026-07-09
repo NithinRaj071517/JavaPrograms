@@ -6,7 +6,7 @@ public class RemoveNumberAndAddFromString {
 
 	public static void main(String[] args) {
 	
-		String s1 = "Hi2 Thi7s m5y Ki2ng5dom";
+		String s1 = "Hi22 Thi7s m5y Ki2ng5dom";
 		char[] s2=s1.toCharArray();
 		System.out.println(s2);
 		int count=0;
